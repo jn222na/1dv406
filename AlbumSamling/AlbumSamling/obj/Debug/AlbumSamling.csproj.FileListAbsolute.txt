@@ -1,0 +1,20 @@
+c:\users\jocke\documents\visual studio 2012\Projects\AlbumSamling\AlbumSamling\bin\AlbumSamling.dll
+c:\users\jocke\documents\visual studio 2012\Projects\AlbumSamling\AlbumSamling\bin\AlbumSamling.pdb
+c:\users\jocke\documents\visual studio 2012\Projects\AlbumSamling\AlbumSamling\obj\Debug\AlbumSamling.csprojResolveAssemblyReference.cache
+c:\users\jocke\documents\visual studio 2012\Projects\AlbumSamling\AlbumSamling\obj\Debug\AlbumSamling.dll
+c:\users\jocke\documents\visual studio 2012\Projects\AlbumSamling\AlbumSamling\obj\Debug\AlbumSamling.pdb
+C:\Users\jn222na\Desktop\AlbumSamling\AlbumSamling\bin\AlbumSamling.dll
+C:\Users\jn222na\Desktop\AlbumSamling\AlbumSamling\bin\AlbumSamling.pdb
+C:\Users\jn222na\Desktop\AlbumSamling\AlbumSamling\obj\Debug\AlbumSamling.csprojResolveAssemblyReference.cache
+C:\Users\jn222na\Desktop\AlbumSamling\AlbumSamling\obj\Debug\AlbumSamling.dll
+C:\Users\jn222na\Desktop\AlbumSamling\AlbumSamling\obj\Debug\AlbumSamling.pdb
+C:\Users\jocke\Documents\GitHub\vt14-3-1-individuellt-arbete\AlbumSamling\AlbumSamling\obj\Debug\AlbumSamling.csprojResolveAssemblyReference.cache
+C:\Users\jocke\Documents\GitHub\vt14-3-1-individuellt-arbete\AlbumSamling\AlbumSamling\obj\Debug\AlbumSamling.dll
+C:\Users\jocke\Documents\GitHub\vt14-3-1-individuellt-arbete\AlbumSamling\AlbumSamling\bin\AlbumSamling.dll
+C:\Users\jocke\Documents\GitHub\vt14-3-1-individuellt-arbete\AlbumSamling\AlbumSamling\bin\AlbumSamling.pdb
+C:\Users\jocke\Documents\GitHub\vt14-3-1-individuellt-arbete\AlbumSamling\AlbumSamling\obj\Debug\AlbumSamling.pdb
+C:\Users\jocke\Desktop\AlbumSamling\AlbumSamling\obj\Debug\AlbumSamling.csprojResolveAssemblyReference.cache
+C:\Users\jocke\Desktop\AlbumSamling\AlbumSamling\obj\Debug\AlbumSamling.dll
+C:\Users\jocke\Desktop\AlbumSamling\AlbumSamling\bin\AlbumSamling.dll
+C:\Users\jocke\Desktop\AlbumSamling\AlbumSamling\bin\AlbumSamling.pdb
+C:\Users\jocke\Desktop\AlbumSamling\AlbumSamling\obj\Debug\AlbumSamling.pdb
